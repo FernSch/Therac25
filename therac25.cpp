@@ -1,2 +1,9 @@
+#include <iostream>
+#include <string>
 
-kill(paitent)
+
+int main () {
+  string patient = "Ray Cox";
+  kill(patient);
+
+}
